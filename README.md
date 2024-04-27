@@ -1,6 +1,6 @@
 # Mobile Price Classification using Machine Learning
 
-![Mobile Price Classification](mobile_price_classification.png)
+![Mobile Price Classification]([mobile_price_classification.png](https://gate.bisaai.id/elearning2/portofolio/media/foto_portofolio/2022-08-28_110856_17303_foto_portofolio.png))
 
 In today's diverse mobile market, finding the perfect phone within budget can be daunting. This project aims to develop a machine learning model that categorizes mobile phones into different price ranges based on their features, enabling consumers to make informed decisions.
 

@@ -14,7 +14,6 @@ In today's diverse mobile market, finding the perfect phone within budget can be
 - [Results](#results)
 - [Key Takeaways](#key-takeaways)
 - [Next Steps](#next-steps)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -59,16 +58,6 @@ The model achieved an impressive accuracy rate of 89.25% after rigorous testing 
 ## Next Steps
 
 Excited to delve deeper into the world of machine learning, exploring advanced techniques and expanding the scope of this project. Continuous learning and innovation are at the core of driving meaningful impact in the tech landscape.
-
-## Installation
-
-Clone the repository and install the required dependencies using pip:
-
-```bash
-git clone https://github.com/yourusername/mobile-price-classification.git
-cd mobile-price-classification
-pip install -r requirements.txt
-```
 
 ## Usage
 
